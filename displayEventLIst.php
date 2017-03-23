@@ -3,7 +3,7 @@
 Plugin Name: BSU Events Calendar extension     
 Plugin URI: wpsupport.boisestate.edu/david
 Description: Provides modifying template search path		
-Version: 1.0
+Version: 1.0.1
 Author: David Ferro
 */
 function widget_output( $args) {
